@@ -5,8 +5,9 @@ import { FaPhoneAlt, FaEnvelope, FaLinkedin } from "react-icons/fa"
 export default function ContactSection() {
   return (
     <section id="contact" className="py-20 px-4 sm:px-20 bg-gray-100 dark:bg-stone-800">
-      <h2 className="text-4xl font-bold text-center mb-12 text-cyan-500 dark:text-cyan-400
-">Let's Work Together</h2>
+      <h2 className="text-4xl font-bold text-center mb-12 text-cyan-500 dark:text-cyan-400">
+        Let&apos;s Work Together
+      </h2>
 
       {/* Contact Info */}
       <div className="max-w-xl mx-auto space-y-4 mb-12 text-gray-800 dark:text-gray-200">

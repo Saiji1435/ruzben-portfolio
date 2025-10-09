@@ -34,7 +34,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I graduated from STI College Munoz-EDSA in 2025 with a BS in Computer Engineering. Since then, I’ve been involved in various project-based development initiatives and innovation competitions.
+              I graduated from STI College Munoz-EDSA in 2025 with a BS in Computer Engineering. Since then, I&apos;ve been involved in various project-based development initiatives and innovation competitions.
             </p>
           </div>
 
@@ -79,7 +79,7 @@ const AboutSection = () => {
               className="rounded-lg shadow-md mb-4 md:mb-0"
             />
             <p className="md:w-2/3 text-white-700 dark:text-black-300">
-              For our thesis, we developed an MCU-Based Rain Harvesting and Smart Watering system for Raymond's Garden. This project automated rainwater collection using microcontrollers and sensors, promoting sustainable water management.
+              For our thesis, we developed an MCU-Based Rain Harvesting and Smart Watering system for Raymond&apos;s Garden. This project automated rainwater collection using microcontrollers and sensors, promoting sustainable water management.
             </p>
           </div>
         </div>
